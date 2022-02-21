@@ -1,3 +1,3 @@
 # Get Score
 
-Proyecto base para obtener el score de Sofka-U
+Proyecto para generar cursos y agregar lecciones con comunicación por eventos usando RabbitMQ
